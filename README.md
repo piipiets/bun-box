@@ -1,4 +1,4 @@
-# Bun Sandbox
+# Bun Box
 
 Backend API starter using Bun, ElysiaJS, Drizzle ORM, and TiDB/MySQL.
 
