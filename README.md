@@ -1,4 +1,4 @@
-# Learn Vibe Coding Backend
+# Bun Sandbox
 
 Backend API starter using Bun, ElysiaJS, Drizzle ORM, and TiDB/MySQL.
 
